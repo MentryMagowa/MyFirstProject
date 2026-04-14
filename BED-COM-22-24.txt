@@ -1,0 +1,5 @@
+* commit 8d84e5caf92f41529e46bc99133960106c8fa800
+  Author: MentryMagowa <bed-com-22-24@unima.ac.mw>
+  Date:   Thu Mar 5 22:33:20 2026 +0200
+  
+      initial commit: add homepage HTML structure
